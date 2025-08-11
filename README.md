@@ -19,10 +19,10 @@
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=yourusername&icon=2&color=0)](https://visitcount.itsvg.in)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social&logo=github)](https://github.com/adityadhimaann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityadhimaann)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dhimanaditya56@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat&logo=firefox&logoColor=white)](https://www.adityakumar-dev.vercel.app)
 
 </div>
 
