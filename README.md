@@ -1,283 +1,288 @@
+# Hi there, I'm Aditya Kumar! 👋
+
 <div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Always+Learning!)
 
-# 🚀 ADITYA DHIMAN 
-## `Full Stack Developer × AI Enthusiast × Tech Innovator`
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+FULL+STACK+DEVELOPER;⚡+AI%2FML+SPECIALIST;🌐+WEB+DEVELOPMENT+EXPERT;🔥+INNOVATION+ARCHITECT" alt="Typing Animation" />
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/rodrigograca31)
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-dhimanaditya56@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dhimanaditya56@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+916306580926-green?style=flat-square&logo=whatsapp)](tel:+916306580926)
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-## 🌐 NEURAL NETWORK STATUS
-
-```ascii
-    ╔══════════════════════════════════════╗
-    ║  💻 SYSTEM STATUS: ONLINE           ║
-    ║  🧠 AI MODULES: ACTIVE              ║
-    ║  ⚡ POWER LEVEL: MAXIMUM            ║
-    ║  🚀 MISSION: CODE THE FUTURE        ║
-    ╚══════════════════════════════════════╝
+```javascript
+const aditya = {
+    location: "Lucknow, Uttar Pradesh, India",
+    education: "CSE Student @ Lovely Professional University",
+    currentStatus: "Building the future with code",
+    workingOn: ["AI/ML Projects", "Full Stack Development", "Open Source"],
+    learning: ["Advanced React Patterns", "Cloud Architecture", "AI/ML"],
+    askMeAbout: ["Web Dev", "AI/ML", "DSA", "System Design"],
+    funFact: "I turn coffee into code and ideas into reality! ☕️"
+};
 ```
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="300"/><br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=600&lines=Building+Tomorrow's+Technology+Today;AI+%7C+Machine+Learning+%7C+Full+Stack;Innovation+Through+Code;Where+Frontend+Meets+Backend)](https://git.io/typing-svg)
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
 
 </div>
 
 ---
 
-## 🔥 SYSTEM SPECIFICATIONS
+## 🎯 Current Focus
 
 <div align="center">
-<table>
-<tr>
-<td valign="top" width="50%">
 
-```python
-class AdityaFullStackDev:
-    def __init__(self):
-        self.name = "Aditya Dhiman"
-        self.role = "Full Stack Developer & AI Specialist"
-        self.language_spoken = ["Hindi", "English", "Python", "JavaScript"]
-        self.specialization = {
-            "frontend": ["React", "Next.js", "Vue.js", "TypeScript"],
-            "backend": ["Node.js", "Python", "Django", "FastAPI"],
-            "ai_ml": ["TensorFlow", "PyTorch", "Computer Vision", "NLP"],
-            "mobile": ["React Native", "Flutter", "Android"],
-            "databases": ["MongoDB", "PostgreSQL", "Redis", "MySQL"],
-            "cloud": ["AWS", "Docker", "Kubernetes", "Firebase"]
-        }
-        
-    def current_mission(self):
-        return "Building scalable applications that change the world"
-        
-    def get_motto(self):
-        return "Code. Build. Innovate. Repeat."
+🔭 **Currently Working On:** AI-powered applications and full-stack development  
+🌱 **Learning:** Advanced AI/ML techniques and cloud technologies  
+💼 **Recent Achievement:** Software Development Intern at Larsen & Toubro  
+🏆 **Latest Win:** Finalist in Gromo-AWS-Sarvam AI Challenge (Top 50/25,000+)  
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🏢 Larsen and Toubro | Software Development Intern
+**📍 Faridabad, Haryana | 📅 June - July 2025**
+
+```diff
++ Developed and deployed full-stack Campus Gateway software
++ Served 500+ employees with 99.9% uptime
++ Reduced manual processes by 40%
++ Technologies: HTML, CSS, JavaScript, PHP, MySQL, IIS Hyper-V
 ```
 
-</td>
-<td valign="top" width="50%">
-
-### 🚀 ACTIVE PROTOCOLS
-- 🌐 **Full Stack Apps**: Scalable web solutions
-- 🧠 **AI/ML Research**: Computer Vision & NLP
-- 📱 **Mobile Development**: Cross-platform apps
-- ☁️ **Cloud Architecture**: Serverless & microservices  
-- 🔒 **Blockchain**: Web3 and DeFi applications
-- 🔬 **R&D**: Next-gen technology exploration
-
-### 🎯 MISSION OBJECTIVES 2024
-- [ ] Launch SaaS product with 10K users
-- [ ] AI-powered web application
-- [ ] Open-source full-stack framework
-- [ ] Tech startup co-founding
-- [x] Advanced ML certification
-- [x] 100+ GitHub contributions
-
-</td>
-</tr>
-</table>
-</div>
-
 ---
 
-## ⚡ TECHNOLOGY ARSENAL
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🌐 FRONTEND & UI/UX
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🧠 AI/ML & DATA SCIENCE
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🌐 FULL STACK DEVELOPMENT
+### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📱 MOBILE & CROSS-PLATFORM
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ CLOUD & DEVOPS
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🗄️ DATABASES & TOOLS
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 NEURAL NETWORK ANALYTICS
+## 🌟 Featured Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityadhimaann&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=00FF41&text_color=FFFFFF"/>
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityadhimaann&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adityadhimaann&theme=neon-dark&hide_border=true&background=0D1117&stroke=FF6B35&ring=00FF41&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENT UNLOCKED
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=adityadhimaann&theme=matrix&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 SYSTEM PERFORMANCE MONITORING
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityadhimaann&custom_title=⚡%20Neural%20Network%20Activity%20Matrix&bg_color=0D1117&color=00FF41&line=FF6B35&point=FFFFFF&area_color=00FF41&title_color=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🚀 CURRENT ROBOTIC PROJECTS
-
-<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🤖 Project: AURORA (Autonomous Robot)
-```yaml
-Status: Active Development 🔥
-Tech Stack: ROS2, Python, OpenCV, TensorFlow
-Features:
-  - Computer Vision Navigation
-  - Object Detection & Tracking  
-  - Voice Command Processing
-  - Remote Monitoring Dashboard
-Progress: 78% Complete
-```
+### 🤖 SamvadGPT
+**AI Assistant Web Application**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=samvadgpt&theme=tokyonight)](https://github.com/yourusername/samvadgpt)
+
+🔥 **Features:**
+- Modern chat interface
+- Voice input/output
+- Multi-language support (EN/HI/Hinglish)
+- Built with Next.js & Google Gemini AI
+
+**Tech Stack:** `TypeScript` `Next.js` `React` `Gemini AI`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🧠 Project: NeuroLink Dashboard  
-```yaml
-Status: Beta Testing 🚧
-Tech Stack: React, Node.js, TensorFlow.js
-Features:
-  - Real-time Brain Wave Analysis
-  - ML Model Training Interface
-  - Data Visualization Engine
-  - REST API Integration
-Progress: 85% Complete
-```
+### 🧠 AIVA - AI Virtual Assistant
+**Mental Health Chatbot**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=aiva&theme=tokyonight)](https://github.com/yourusername/aiva)
+
+🎯 **Impact:**
+- 90% user satisfaction rate
+- Personalized wellness recommendations
+- Meditation guides & progress tracking
+- OpenAI API integration
+
+**Tech Stack:** `HTML` `TailwindCSS` `JavaScript` `OpenAI`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍽️ Mamta Restaurant Platform
+**Full-Stack Ordering System**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=mamta-restaurant&theme=tokyonight)](https://github.com/yourusername/mamta-restaurant)
+
+📈 **Scale:**
+- 500+ daily orders supported
+- Real-time order tracking
+- Inventory management
+- Kitchen-to-customer communication
+
+**Tech Stack:** `React.js` `Node.js` `MongoDB`
+
+</td>
+<td width="50%">
+
+### 🏆 BhasaVitt (Competition Winner)
+**Multilingual Financial Literacy AI**
+
+🥇 **Achievement:**
+- Finalist in Gromo-AWS-Sarvam AI Challenge
+- Top 50 out of 25,000+ participants
+- 85% accuracy in cross-language assessment
+- Multilingual financial education model
+
+**Tech Stack:** `Python` `AI/ML` `NLP` `AWS`
 
 </td>
 </tr>
 </table>
-</div>
-
----
-
-## 🌟 CONNECT TO MY NETWORK
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityadhiman)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityadhiman)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adityadhiman)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@adityadhiman)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://adityadhiman.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadhiman@email.com)
 
 </div>
 
 ---
 
-## 🎵 CODING SOUNDTRACK
+## 📊 GitHub Analytics
 
 <div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=FF6B35)](https://open.spotify.com/user/adityadhiman)
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🔮 API INTEGRATIONS & LIVE DATA
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-### ⚡ Real-time Metrics Dashboard
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityadhiman&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" alt="Coding Time Stats"/>
-
-[![WakaTime](https://wakatime.com/badge/user/youruserid.svg?style=for-the-badge)](https://wakatime.com/@youruserid)
-
-### 📊 Live Coding Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<div align="center">
-
-## 💫 SYSTEM INITIALIZATION COMPLETE
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### 🤖 *"In a world of algorithms, be the one who writes them"*
-
-```terminal
-$ whoami
-> Robotics Engineer | AI Researcher | Full Stack Developer
-$ cat mission.txt  
-> Building the future, one line of code at a time
-$ sudo make impact
-> Changing the world through technology and innovation
+### 🎖️ Honors & Awards
+```
+🏅 Finalist in Gromo-AWS-Sarvam AI Challenge (Top 50/25,000+)
+🔥 LeetCode Expert
+⭐ CodeChef Expert  
+💪 Strong DSA Foundation
 ```
 
-**🚀 Ready to collaborate on the next big thing? Let's build something extraordinary! 🚀**
+### 📜 Certifications
+- 🌐 **Responsive Web Design** - FreeCodeCamp
+- 🔗 **Computer Networking** - Coursera
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
+- ☕ **Java Programming Certification** - iamneo
+- 💬 **Computer Communication** - Coursera
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adityadhimaann.adityadhimaann&left_color=000000&right_color=00FF41&left_text=System%20Visitors)
+</div>
+
+---
+
+## 🎮 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Expert-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/yourusername)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Expert-brown?style=for-the-badge&logo=codechef)](https://codechef.com/users/yourusername)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active-green?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/yourusername)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=tokyo-night)](https://github.com/yourusername)
+
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎓 Graduate CSE] --> B[🚀 Join Top Tech Company]
+    B --> C[🧠 Master AI/ML]
+    C --> D[🌟 Contribute to Open Source]
+    D --> E[🏗️ Build Impactful Products]
+```
+
+</div>
+
+- 🎓 Complete Computer Science Engineering with excellence
+- 🚀 Secure a position at a leading tech company
+- 🧠 Deep dive into Advanced AI/ML and Cloud Computing
+- 🌟 Contribute more to open source projects
+- 🏗️ Build products that make a difference
+
+---
+
+## 💭 Fun Facts
+
+<div align="center">
+
+🎵 **Currently Listening To:** Coding playlists on Spotify  
+☕ **Coffee Consumption:** ~4 cups/day (debugging fuel!)  
+🌙 **Preferred Coding Time:** Late night (when the world is quiet)  
+🎮 **When Not Coding:** Playing chess or exploring new tech  
+📚 **Reading:** Tech blogs, AI research papers, sci-fi novels  
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+**I'm always excited to collaborate on innovative projects and connect with fellow developers!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanaditya56@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
@@ -285,16 +290,20 @@ $ sudo make impact
 
 <div align="center">
 
-**⭐ From [adityadhimaann](https://github.com/adityadhimaann) | Built with 🤖 AI, ⚡ Passion & 💚 Open Source Love**
+### Show some ❤️ by starring some repositories!
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
-```ascii
-╔════════════════════════════════════════════════════════════╗
-║  🤖 Thank you for visiting my digital laboratory!          ║
-║  🚀 Star my repos if you find them interesting!           ║  
-║  💡 Always open to collaboration and new ideas!           ║
-╚════════════════════════════════════════════════════════════╝
-```
+**⭐ Star this repo if you like my profile!**
+
+</div>
+
+---
+
+<div align="center">
+  
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Happy Coding! 🚀**
 
 </div>
