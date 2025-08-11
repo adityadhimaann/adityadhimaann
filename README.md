@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🤖 ADITYA DHIMAN 
-## `Robotics Engineer × Full Stack Developer × AI Enthusiast`
+# 🚀 ADITYA DHIMAN 
+## `Full Stack Developer × AI Enthusiast × Tech Innovator`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+ROBOTICS+ENGINEER;⚡+FULL+STACK+DEVELOPER;🧠+AI%2FML+SPECIALIST;🔥+INNOVATION+ARCHITECT" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+FULL+STACK+DEVELOPER;⚡+AI%2FML+SPECIALIST;🌐+WEB+DEVELOPMENT+EXPERT;🔥+INNOVATION+ARCHITECT" alt="Typing Animation" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
@@ -19,7 +19,7 @@
 
 ```ascii
     ╔══════════════════════════════════════╗
-    ║  🤖 SYSTEM STATUS: ONLINE           ║
+    ║  💻 SYSTEM STATUS: ONLINE           ║
     ║  🧠 AI MODULES: ACTIVE              ║
     ║  ⚡ POWER LEVEL: MAXIMUM            ║
     ║  🚀 MISSION: CODE THE FUTURE        ║
@@ -28,7 +28,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="300"/><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=600&lines=Building+Tomorrow's+Technology+Today;Robotics+%7C+AI+%7C+Full+Stack+Development;Innovation+Through+Code;Where+Hardware+Meets+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=600&lines=Building+Tomorrow's+Technology+Today;AI+%7C+Machine+Learning+%7C+Full+Stack;Innovation+Through+Code;Where+Frontend+Meets+Backend)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,22 +42,22 @@
 <td valign="top" width="50%">
 
 ```python
-class AditaRoboticsDev:
+class AdityaFullStackDev:
     def __init__(self):
         self.name = "Aditya Dhiman"
-        self.role = "Robotics Engineer & Full Stack Dev"
+        self.role = "Full Stack Developer & AI Specialist"
         self.language_spoken = ["Hindi", "English", "Python", "JavaScript"]
         self.specialization = {
-            "robotics": ["ROS", "Arduino", "Raspberry Pi", "OpenCV"],
+            "frontend": ["React", "Next.js", "Vue.js", "TypeScript"],
+            "backend": ["Node.js", "Python", "Django", "FastAPI"],
             "ai_ml": ["TensorFlow", "PyTorch", "Computer Vision", "NLP"],
-            "web_dev": ["React", "Node.js", "Next.js", "Django"],
             "mobile": ["React Native", "Flutter", "Android"],
-            "embedded": ["C++", "MicroPython", "ESP32", "STM32"],
+            "databases": ["MongoDB", "PostgreSQL", "Redis", "MySQL"],
             "cloud": ["AWS", "Docker", "Kubernetes", "Firebase"]
         }
         
     def current_mission(self):
-        return "Building autonomous systems that change the world"
+        return "Building scalable applications that change the world"
         
     def get_motto(self):
         return "Code. Build. Innovate. Repeat."
@@ -67,17 +67,17 @@ class AditaRoboticsDev:
 <td valign="top" width="50%">
 
 ### 🚀 ACTIVE PROTOCOLS
-- 🤖 **Robotics Systems**: Building autonomous robots
+- 🌐 **Full Stack Apps**: Scalable web solutions
 - 🧠 **AI/ML Research**: Computer Vision & NLP
-- 🌐 **Full Stack Apps**: Scalable web solutions  
 - 📱 **Mobile Development**: Cross-platform apps
-- ⚡ **IoT Projects**: Smart connected devices
+- ☁️ **Cloud Architecture**: Serverless & microservices  
+- 🔒 **Blockchain**: Web3 and DeFi applications
 - 🔬 **R&D**: Next-gen technology exploration
 
 ### 🎯 MISSION OBJECTIVES 2024
-- [ ] Launch autonomous delivery robot
-- [ ] AI-powered healthcare assistant
-- [ ] Open-source robotics framework
+- [ ] Launch SaaS product with 10K users
+- [ ] AI-powered web application
+- [ ] Open-source full-stack framework
 - [ ] Tech startup co-founding
 - [x] Advanced ML certification
 - [x] 100+ GitHub contributions
@@ -93,12 +93,12 @@ class AditaRoboticsDev:
 
 <div align="center">
 
-### 🤖 ROBOTICS & EMBEDDED
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 🌐 FRONTEND & UI/UX
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🧠 AI/ML & DATA SCIENCE
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
