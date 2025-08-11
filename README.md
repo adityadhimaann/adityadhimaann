@@ -1,171 +1,360 @@
-# Hi there, I'm Aditya Kumar! 👋
+# <div align="center">🚀 **ADITYA KUMAR** 🚀</div>
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Always+Learning!)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Welcome%20To%20My%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Innovation%20Enthusiast&descAlignY=55&descSize=18)
 
 </div>
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-dhimanaditya56@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dhimanaditya56@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+916306580926-green?style=flat-square&logo=whatsapp)](tel:+916306580926)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%92%BB+Building+the+Future+with+Code;%F0%9F%A4%96+AI%2FML+Innovation+Engineer;%F0%9F%8C%9F+Problem+Solver+%26+System+Architect;%E2%9C%A8+Turning+Ideas+into+Digital+Reality)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=yourusername&icon=2&color=0)](https://visitcount.itsvg.in)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dhimanaditya56@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```javascript
-const aditya = {
-    location: "Lucknow, Uttar Pradesh, India",
-    education: "CSE Student @ Lovely Professional University",
-    currentStatus: "Building the future with code",
-    workingOn: ["AI/ML Projects", "Full Stack Development", "Open Source"],
-    learning: ["Advanced React Patterns", "Cloud Architecture", "AI/ML"],
-    askMeAbout: ["Web Dev", "AI/ML", "DSA", "System Design"],
-    funFact: "I turn coffee into code and ideas into reality! ☕️"
-};
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> **ABOUT THE ARCHITECT**
+
+```typescript
+class AdityaKumar implements Developer, Innovator, ProblemSolver {
+  readonly name = "Aditya Kumar";
+  readonly location = "🏛️ Lucknow, Uttar Pradesh, India";
+  readonly education = "🎓 CSE @ Lovely Professional University";
+  readonly experience = "💼 Software Development Intern @ L&T";
+  
+  private skills: TechStack = {
+    languages: ["Java", "Python", "JavaScript", "TypeScript", "PHP"],
+    frontend: ["React.js", "Next.js", "TailwindCSS", "HTML5", "CSS3"],
+    backend: ["Node.js", "PHP", "RESTful APIs"],
+    databases: ["MySQL", "MongoDB"],
+    cloud: ["Google Cloud Platform", "Oracle Cloud"],
+    tools: ["Git", "VS Code", "Docker", "Postman"]
+  };
+  
+  getCurrentStatus(): string[] {
+    return [
+      "🔭 Building AI-powered applications",
+      "🌱 Mastering System Design & Architecture",
+      "💡 Contributing to Open Source",
+      "🏆 Competing in coding challenges"
+    ];
+  }
+  
+  getAchievements(): Achievement[] {
+    return [
+      { event: "Gromo-AWS-Sarvam AI Challenge", rank: "Top 50/25000+", prize: "🏆" },
+      { platform: "LeetCode", status: "Expert", badge: "⚡" },
+      { platform: "CodeChef", status: "Expert", badge: "🔥" },
+      { company: "L&T", impact: "40% process optimization", result: "🚀" }
+    ];
+  }
+}
+
+const developer = new AdityaKumar();
+console.log(`${developer.name} is ready to change the world! 🌍`);
 ```
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
 
-## 🎯 Current Focus
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> **TECH ARSENAL**
 
 <div align="center">
 
-🔭 **Currently Working On:** AI-powered applications and full-stack development  
-🌱 **Learning:** Advanced AI/ML techniques and cloud technologies  
-💼 **Recent Achievement:** Software Development Intern at Larsen & Toubro  
-🏆 **Latest Win:** Finalist in Gromo-AWS-Sarvam AI Challenge (Top 50/25,000+)  
+### 🚀 **CORE TECHNOLOGIES**
+
+<table align="center">
+<tr>
+<td align="center" width="150">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="150">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="150">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="150">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />
+<br><strong>TypeScript</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" />
+<br><strong>PHP</strong>
+</td>
+</tr>
+</table>
+
+### 🎨 **FRONTEND MASTERY**
+
+<table align="center">
+<tr>
+<td align="center" width="150">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
+<br><strong>React.js</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60" />
+<br><strong>Next.js</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="60" height="60" />
+<br><strong>Tailwind</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" />
+<br><strong>CSS3</strong>
+</td>
+</tr>
+</table>
+
+### ⚙️ **BACKEND & DATABASE**
+
+<table align="center">
+<tr>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="150">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="60" height="60" />
+<br><strong>GCP</strong>
+</td>
+<td align="center" width="150">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" />
+<br><strong>Docker</strong>
+</td>
+</tr>
+</table>
+
+### 🛠️ **DEVELOPMENT TOOLS**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,windows,discord,notion&theme=dark" />
+</p>
 
 </div>
-
----
-
-## 💼 Experience
-
-### 🏢 Larsen and Toubro | Software Development Intern
-**📍 Faridabad, Haryana | 📅 June - July 2025**
-
-```diff
-+ Developed and deployed full-stack Campus Gateway software
-+ Served 500+ employees with 99.9% uptime
-+ Reduced manual processes by 40%
-+ Technologies: HTML, CSS, JavaScript, PHP, MySQL, IIS Hyper-V
-```
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
-
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFiMWU1YmVjNzFkNDVmZGQxZTJkYzNkNjAwZjIwZGI4Y2E4OGJkOSZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="50px" height="50px"> **FLAGSHIP PROJECTS**
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 SamvadGPT
-**AI Assistant Web Application**
+### 🤖 **SamvadGPT** - *AI Conversation Engine*
+[![SamvadGPT](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=samvadgpt&theme=react&bg_color=1F222E&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&border_color=00D4FF)](https://github.com/yourusername/samvadgpt)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=samvadgpt&theme=tokyonight)](https://github.com/yourusername/samvadgpt)
+```yaml
+🎯 Impact:
+  - Multi-language support (EN/HI/Hinglish)
+  - Voice-powered interactions
+  - Modern chat interface
+  - Real-time AI responses
 
-🔥 **Features:**
-- Modern chat interface
-- Voice input/output
-- Multi-language support (EN/HI/Hinglish)
-- Built with Next.js & Google Gemini AI
+⚡ Tech Stack:
+  - Frontend: Next.js, TypeScript, React
+  - AI: Google Gemini API
+  - Styling: TailwindCSS
+  - Features: Voice I/O, Multi-lang
+```
 
-**Tech Stack:** `TypeScript` `Next.js` `React` `Gemini AI`
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Users-1K+-blue?style=for-the-badge" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 AIVA - AI Virtual Assistant
-**Mental Health Chatbot**
+### 🧠 **AIVA** - *Mental Health AI Assistant*
+[![AIVA](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=aiva&theme=react&bg_color=1F222E&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff&border_color=FF6B6B)](https://github.com/yourusername/aiva)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=aiva&theme=tokyonight)](https://github.com/yourusername/aiva)
+```yaml
+🏆 Achievement:
+  - 90% user satisfaction rate
+  - Personalized wellness plans
+  - Progress tracking system
+  - Mental health support
 
-🎯 **Impact:**
-- 90% user satisfaction rate
-- Personalized wellness recommendations
-- Meditation guides & progress tracking
-- OpenAI API integration
+🔧 Technology:
+  - Frontend: HTML5, TailwindCSS
+  - Backend: JavaScript, OpenAI API
+  - Features: Meditation guides, Analytics
+  - Impact: Mental wellness support
+```
 
-**Tech Stack:** `HTML` `TailwindCSS` `JavaScript` `OpenAI`
+<p align="center">
+  <img src="https://img.shields.io/badge/Rating-4.8%2F5-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Satisfaction-90%25-green?style=for-the-badge" />
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍽️ Mamta Restaurant Platform
-**Full-Stack Ordering System**
+### 🍽️ **Mamta Restaurant** - *Full-Stack Ordering Platform*
+[![Mamta Restaurant](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=mamta-restaurant&theme=react&bg_color=1F222E&title_color=FFD93D&icon_color=FFD93D&text_color=ffffff&border_color=FFD93D)](https://github.com/yourusername/mamta-restaurant)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=mamta-restaurant&theme=tokyonight)](https://github.com/yourusername/mamta-restaurant)
+```yaml
+📊 Scale:
+  - 500+ daily orders processed
+  - Real-time order tracking
+  - Inventory management system
+  - Kitchen-customer communication
 
-📈 **Scale:**
-- 500+ daily orders supported
-- Real-time order tracking
-- Inventory management
-- Kitchen-to-customer communication
+🏗️ Architecture:
+  - Frontend: React.js, Responsive Design
+  - Backend: Node.js, Express.js
+  - Database: MongoDB
+  - Features: Real-time updates, Analytics
+```
 
-**Tech Stack:** `React.js` `Node.js` `MongoDB`
+<p align="center">
+  <img src="https://img.shields.io/badge/Orders-500%2B%2Fday-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=for-the-badge" />
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏆 BhasaVitt (Competition Winner)
-**Multilingual Financial Literacy AI**
+### 🏆 **BhasaVitt** - *Competition Winner*
+[![Competition Winner](https://img.shields.io/badge/WINNER-Gromo--AWS--Sarvam-gold?style=for-the-badge&logo=trophy)](https://github.com/yourusername/bhasavitt)
 
-🥇 **Achievement:**
-- Finalist in Gromo-AWS-Sarvam AI Challenge
-- Top 50 out of 25,000+ participants
-- 85% accuracy in cross-language assessment
-- Multilingual financial education model
+```yaml
+🥇 Achievement:
+  - TOP 50 out of 25,000+ participants
+  - Multilingual financial literacy AI
+  - 85% accuracy in cross-language assessment
+  - AWS & Sarvam AI integration
 
-**Tech Stack:** `Python` `AI/ML` `NLP` `AWS`
+🚀 Innovation:
+  - NLP: Advanced language processing
+  - AI/ML: Custom model training
+  - Cloud: AWS infrastructure
+  - Impact: Financial education accessibility
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rank-Top%2050-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Accuracy-85%25-success?style=for-the-badge" />
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px" height="50px"> **GITHUB ANALYTICS**
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&bg_color=1F222E&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&border_color=00D4FF&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&background=1F222E&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&bg_color=1F222E&title_color=00D4FF&text_color=ffffff&border_color=00D4FF&hide_border=true&langs_count=10" />
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=1F222E&line=00D4FF&point=00D4FF&color=ffffff&area=true&hide_border=true)](https://github.com/yourusername)
+
+</div>
+
+<div align="center">
+
+### 🏆 **GitHub Trophies**
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/yourusername)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px" height="50px"> **PROFESSIONAL EXPERIENCE**
+
+<div align="center">
+
+### 🏢 **Larsen & Toubro** | *Software Development Intern*
+**📍 Faridabad, Haryana | 📅 June - July 2025**
+
+<table align="center">
+<tr>
+<td>
+
+```diff
+🚀 KEY ACHIEVEMENTS:
++ Developed full-stack Campus Gateway software
++ Served 500+ employees with 99.9% uptime
++ Reduced manual processes by 40%
++ Deployed on IIS Hyper-V infrastructure
+
+💻 TECHNOLOGIES USED:
++ Frontend: HTML5, CSS3, JavaScript
++ Backend: PHP, MySQL
++ Infrastructure: IIS Hyper-V
++ Performance: 99.9% uptime achieved
+
+📈 BUSINESS IMPACT:
++ 40% reduction in manual processes
++ 500+ employees served daily
++ Improved operational efficiency
++ Enhanced user experience
+```
 
 </td>
 </tr>
@@ -175,114 +364,215 @@ const aditya = {
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" height="50px"> **ACHIEVEMENTS & CERTIFICATIONS**
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+
+### 🏆 **MAJOR ACHIEVEMENTS**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/trophy.png" width="80" height="80" />
+<br><strong>🥇 Competition Winner</strong>
+<br>Top 50/25,000+ in Gromo-AWS-Sarvam AI Challenge
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="80" height="80" />
+<br><strong>⚡ LeetCode Expert</strong>
+<br>Advanced Problem Solving Skills
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/chef-hat.png" width="80" height="80" />
+<br><strong>🔥 CodeChef Expert</strong>
+<br>Competitive Programming Excellence
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/briefcase.png" width="80" height="80" />
+<br><strong>💼 L&T Internship</strong>
+<br>40% Process Optimization
+</td>
+</tr>
+</table>
+
+### 📜 **CERTIFICATIONS**
+
+<div align="center">
+
+| Certification | Provider | Badge |
+|---------------|----------|--------|
+| 🌐 Responsive Web Design | FreeCodeCamp | ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Certified-brightgreen?style=flat&logo=freecodecamp) |
+| 🔗 Computer Networking | Coursera | ![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=flat&logo=coursera) |
+| ☁️ Oracle Cloud Infrastructure 2025 | Oracle | ![Oracle](https://img.shields.io/badge/Oracle-Certified-red?style=flat&logo=oracle) |
+| ☕ Java Programming | iamneo | ![Java](https://img.shields.io/badge/Java-Certified-orange?style=flat&logo=java) |
+| 💬 Computer Communication | Coursera | ![Coursera](https://img.shields.io/badge/Coursera-Certified-blue?style=flat&logo=coursera) |
 
 </div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-### 🎖️ Honors & Awards
-```
-🏅 Finalist in Gromo-AWS-Sarvam AI Challenge (Top 50/25,000+)
-🔥 LeetCode Expert
-⭐ CodeChef Expert  
-💪 Strong DSA Foundation
-```
-
-### 📜 Certifications
-- 🌐 **Responsive Web Design** - FreeCodeCamp
-- 🔗 **Computer Networking** - Coursera
-- ☁️ **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
-- ☕ **Java Programming Certification** - iamneo
-- 💬 **Computer Communication** - Coursera
-
-</div>
-
----
-
-## 🎮 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Expert-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/yourusername)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Expert-brown?style=for-the-badge&logo=codechef)](https://codechef.com/users/yourusername)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active-green?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/yourusername)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" height="50px"> **CODING PROFILES**
 
 <div align="center">
 
-[![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=tokyo-night)](https://github.com/yourusername)
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="80" height="80" />
+<br>
+<strong>LeetCode Expert</strong>
+<br>
+<a href="https://leetcode.com/yourusername">
+<img src="https://img.shields.io/badge/LeetCode-Expert-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/chef-hat.png" width="80" height="80" />
+<br>
+<strong>CodeChef Expert</strong>
+<br>
+<a href="https://codechef.com/users/yourusername">
+<img src="https://img.shields.io/badge/CodeChef-Expert-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/source-code.png" width="80" height="80" />
+<br>
+<strong>GeeksforGeeks</strong>
+<br>
+<a href="https://auth.geeksforgeeks.org/user/yourusername">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Active-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80" height="80" />
+<br>
+<strong>HackerRank</strong>
+<br>
+<a href="https://hackerrank.com/yourusername">
+<img src="https://img.shields.io/badge/HackerRank-Active-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🎯 2025 Goals
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px" height="50px"> **2025 ROADMAP**
 
 <div align="center">
 
 ```mermaid
-graph LR
-    A[🎓 Graduate CSE] --> B[🚀 Join Top Tech Company]
-    B --> C[🧠 Master AI/ML]
-    C --> D[🌟 Contribute to Open Source]
-    D --> E[🏗️ Build Impactful Products]
+graph TD
+    A[🎓 Graduate CSE with Excellence] --> B[🚀 Join FAANG Company]
+    B --> C[🧠 Master Advanced AI/ML]
+    C --> D[🌟 Lead Open Source Projects]
+    D --> E[🏗️ Launch Tech Startup]
+    E --> F[🌍 Impact Millions of Lives]
+    
+    style A fill:#FF6B6B
+    style B fill:#4ECDC4
+    style C fill:#45B7D1
+    style D fill:#96CEB4
+    style E fill:#FFEAA7
+    style F fill:#DDA0DD
 ```
 
 </div>
 
-- 🎓 Complete Computer Science Engineering with excellence
-- 🚀 Secure a position at a leading tech company
-- 🧠 Deep dive into Advanced AI/ML and Cloud Computing
-- 🌟 Contribute more to open source projects
-- 🏗️ Build products that make a difference
-
----
-
-## 💭 Fun Facts
-
 <div align="center">
 
-🎵 **Currently Listening To:** Coding playlists on Spotify  
-☕ **Coffee Consumption:** ~4 cups/day (debugging fuel!)  
-🌙 **Preferred Coding Time:** Late night (when the world is quiet)  
-🎮 **When Not Coding:** Playing chess or exploring new tech  
-📚 **Reading:** Tech blogs, AI research papers, sci-fi novels  
+### 🎯 **KEY OBJECTIVES FOR 2025**
+
+| Quarter | Goals | Status |
+|---------|-------|---------|
+| Q1 | 🎓 Complete final year with 9+ CGPA | ![](https://geps.dev/progress/75) |
+| Q2 | 🚀 Land a position at top tech company | ![](https://geps.dev/progress/25) |
+| Q3 | 🧠 Complete Advanced AI/ML specialization | ![](https://geps.dev/progress/10) |
+| Q4 | 🌟 Contribute to 10+ open source projects | ![](https://geps.dev/progress/30) |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px" height="50px"> **RANDOM DEV FACTS**
 
 <div align="center">
 
-**I'm always excited to collaborate on innovative projects and connect with fellow developers!**
+<table>
+<tr>
+<td align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="200" height="150" />
+<br>
+<strong>🎵 Currently Jamming To:</strong>
+<br>
+Lo-fi Hip Hop & Synthwave
+<br>
+<em>"Perfect coding vibes!"</em>
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="150" />
+<br>
+<strong>☕ Daily Coffee Intake:</strong>
+<br>
+~4 cups (Debugging Fuel!)
+<br>
+<em>"Coffee++ while(bugs > 0)"</em>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" height="150" />
+<br>
+<strong>🌙 Peak Productivity:</strong>
+<br>
+11 PM - 3 AM
+<br>
+<em>"Night owl developer mode!"</em>
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" height="150" />
+<br>
+<strong>🎮 When Not Coding:</strong>
+<br>
+Chess & Tech Podcasts
+<br>
+<em>"Strategy in games = Strategy in code"</em>
+</td>
+</tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanaditya56@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px" height="50px"> **LET'S BUILD SOMETHING AMAZING TOGETHER!**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="100" height="100" />
+
+**Ready to collaborate on groundbreaking projects?**  
+**I'm always excited to work with fellow innovators and creators!**
+
+</div>
+
+<div align="center">
+
+### 🤝 **Connect With Me**
+
+<p>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dhimanaditya56@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://discord.com/users/yourid"><img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
 
 </div>
 
@@ -290,20 +580,30 @@ graph LR
 
 <div align="center">
 
-### Show some ❤️ by starring some repositories!
+### 📊 **Profile Engagement**
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-**⭐ Star this repo if you like my profile!**
+<br>
+
+**💡 "The best way to predict the future is to invent it." - Alan Kay**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" />
 
 </div>
 
----
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling)
+
+</div>
 
 <div align="center">
-  
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-**Happy Coding! 🚀**
+### ⭐ **Show some love by starring repositories you find interesting!** ⭐
+
+**Made with ❤️ by Aditya Kumar | Happy Coding! 🚀**
 
 </div>
