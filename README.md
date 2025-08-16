@@ -1,4 +1,4 @@
-# <div align="center">🚀 **ADITYA KUMAR** 🚀</div>
+# <div align="center"> **ADITYA KUMAR** </div>
 
 <div align="center">
 
