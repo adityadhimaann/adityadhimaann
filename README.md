@@ -5,7 +5,7 @@ Aditya Kumar - Full Stack and AI Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/adityadhimaann)
 [![Portfolio](https://img.shields.io/badge/Portfolio-adidev.works-FF6B6B?style=flat&logo=firefox)](https://www.adidev.works)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:dhimanaditya56@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-250%2B_Solved-orange?style=flat&logo=leetcode)](https://leetcode.com/adityadhimaann)
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Solved-orange?style=flat&logo=leetcode)](https://leetcode.com/AadiHamza)
 
 </div>
 
