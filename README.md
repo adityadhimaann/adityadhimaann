@@ -37,7 +37,6 @@ status:     Freelancing on Upwork + Building AI products 🔥
 
 | Project | What it does | Tech |
 |--------|-------------|------|
-| **[GolfCharity](https://github.com/adityadhimaann)** | Golf scores → charity contributions · prize draws · real-time dashboards | Next.js, Node.js, PostgreSQL |
 | **[SyncRide](https://github.com/adityadhimaann)** | GenAI travel assistant · real-time delay prediction · door-to-door planning | TypeScript, Firebase, OpenAI |
 | **[UniEd](https://github.com/adityadhimaann)** | EdTech platform · live classes via WebRTC · AI interview simulator | React, Node.js, MongoDB, GCP |
 
@@ -57,14 +56,13 @@ Built *Campus Gateway* for 500+ employees · optimized MySQL queries cutting lat
 
 - 🥇 **Top 15 / 25,000+** — Finarva AI Hackathon (Gromo × AWS × Sarvam AI)
 - 🇮🇳 **Smart India Hackathon 2025** — Selected for Govt. of Punjab idea presentation
-- 💻 **250+ DSA problems** solved on LeetCode
+- 💻 **300+ DSA problems** solved on LeetCode
 - ☁️ Oracle Cloud Infrastructure 2025 · Google Generative AI · MongoDB Atlas certified
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityadhimaann&show_icons=true&theme=react&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&hide_border=true&count_private=true)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
 
