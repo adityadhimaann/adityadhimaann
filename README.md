@@ -12,8 +12,6 @@ Aditya Kumar - Full Stack and AI Developer
 ---
 
 ```yaml
-name:       Aditya Kumar
-role:       Full Stack Developer & AI/ML Engineer
 education:  B.Tech CSE @ Lovely Professional University  (2023–2027)
 location:   Punjab, India
 status:     Freelancing on Upwork + Building AI products 🔥
